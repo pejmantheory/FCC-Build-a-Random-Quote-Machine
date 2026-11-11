@@ -1,4 +1,4 @@
-# Build-a-Random-Quote-Machine
+### Build-a-Random-Quote-Machine
 <img width="994" alt="Screenshot 2023-06-09 at 7 30 59 PM" src="https://github.com/pejmantheory/FCC-Build-a-Random-Quote-Machine/assets/81389644/e6808c72-52c8-49ac-81f5-79a0d9bd204a">
 Coding platform: CodePen
 
